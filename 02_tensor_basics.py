@@ -18,7 +18,7 @@ x = torch.empty(2,2,3) # tensor, 3 dimensions
 print(x)
 
 # torch.rand(size): random numbers [0, 1]
-x = torch.rand(5, 3)
+x = torch.rand(5, 3) 
 print(x)
 
 # torch.zeros(size), fill with 0
